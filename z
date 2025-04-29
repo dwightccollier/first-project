@@ -1,0 +1,17 @@
+[33mcommit 7dee6da3d09c9af1c1a869955dabaf6527bb0b45[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Dwight C. Collier <dwightccollier@outlook.com>
+Date:   Tue Apr 29 14:50:53 2025 -0400
+
+    button click, ignore log files
+
+[33mcommit 47cad22640a2141c2d220c5f027580a163c965f0[m
+Author: Dwight C. Collier <dwightccollier@outlook.com>
+Date:   Tue Apr 29 14:44:29 2025 -0400
+
+    added Javascript
+
+[33mcommit 8fba28e58557d28b14d7c568dfbeefbf12473c4b[m
+Author: Dwight C. Collier <dwightccollier@outlook.com>
+Date:   Tue Apr 29 14:41:35 2025 -0400
+
+    Initial commit
